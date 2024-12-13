@@ -1,0 +1,2 @@
+# RedmineCollapseButton
+Redmine_Collapse_script
