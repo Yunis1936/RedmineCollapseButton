@@ -5,7 +5,7 @@
 // @description  Добавляет кнопку Collapse в панель инструментов редакторов задач и комментариев на Redmine.
 // @author       Ты
 // @match        https://redmine.lachestry.tech/*
-// @match        https://redmine.rigla.ru/issues/*
+// @match        https://redmine.rigla.ru/
 // @icon         https://www.redmine.org/favicon.ico
 // @grant        none
 // ==/UserScript==
