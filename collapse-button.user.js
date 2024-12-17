@@ -28,16 +28,11 @@
         collapseButton.title = 'Добавить Collapse';
 
         // Стили кнопки
-        Object.assign(collapseButton.style, {
+                Object.assign(collapseButton.style, {
             marginRight: '2px',
             width: '24px',   // Размер кнопки
             height: '24px',
-            padding: '0',    // Убираем внутренние отступы
-            borderStyle: 'solid',
-            borderWidth: '1px',
-            borderColor: '#ddd',
-            backgroundColor: 'transparent', // Прозрачный фон, так как изображение будет фоном
-            backgroundImage: 'url("https://i.imgur.com/ZTLZOPe.png")', // Ваш прямой URL изображения
+            backgroundImage: 'url("https://cdn-icons-png.flaticon.com/512/15224/15224773.png")', 
             backgroundSize: 'cover', // Размер изображения по размеру кнопки
             backgroundPosition: 'center', // Центрируем изображение
             cursor: 'pointer',
